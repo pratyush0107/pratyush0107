@@ -62,7 +62,7 @@
 
 ## 📈 GitHub Stats
 
-> Replace **YOUR_GITHUB_USERNAME** with your GitHub username.
+> Replace **pratyush0107** with your GitHub username.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
